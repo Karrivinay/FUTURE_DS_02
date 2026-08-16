@@ -1,7 +1,7 @@
  Customer Churn Analysis Dashboard 
 
 ## 🧾 Overview
-
+.
 This project presents a comprehensive **Customer Churn Analysis Dashboard** built using **Power BI**. The goal of this project is to analyze customer data, identify churn patterns, and generate meaningful business insights that help organizations improve customer retention.
 
 Customer churn is a critical problem for subscription-based businesses. This dashboard provides a data-driven approach to understanding why customers leave and how to reduce churn.
